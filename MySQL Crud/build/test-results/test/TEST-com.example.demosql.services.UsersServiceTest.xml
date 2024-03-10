@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.demosql.services.UsersServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-03-10T01:34:48" hostname="DESKTOP-P3F6OTN" time="1.051">
+  <properties/>
+  <testcase name="testGetAllUsers()" classname="com.example.demosql.services.UsersServiceTest" time="1.015"/>
+  <testcase name="testUpdateUser()" classname="com.example.demosql.services.UsersServiceTest" time="0.012"/>
+  <testcase name="testCreateUser()" classname="com.example.demosql.services.UsersServiceTest" time="0.004"/>
+  <testcase name="testDeleteUser()" classname="com.example.demosql.services.UsersServiceTest" time="0.009"/>
+  <testcase name="testGetUserById()" classname="com.example.demosql.services.UsersServiceTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
